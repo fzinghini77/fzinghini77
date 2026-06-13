@@ -33,6 +33,7 @@ schedules are, at their core, systems theory problems.
 ## Find me
 
 - 🌐 [miningreturns.com](https://miningreturns.com) — real-time crypto mining profitability calculator
-- ✍️ [Author profile](https://miningreturns.com/author/francesco-zinghini) — all my articles on mining economics
+- ✍️ [Author profile — MiningReturns](https://miningreturns.com/author/francesco-zinghini) — mining economics articles
+- ✍️ [Author profile — blog.tuttosemplice.com](https://blog.tuttosemplice.com/en/francesco-zinghini-engineer-fintech-entrepreneur-and-ai-systems-expert/) — fintech & technology writing
 - 💼 [LinkedIn](https://www.linkedin.com/in/francescozinghini)
 - 📖 [blog.tuttosemplice.com](https://blog.tuttosemplice.com/en/)
