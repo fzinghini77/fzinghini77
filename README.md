@@ -3,7 +3,7 @@
 **Electronic Engineer · Systems Theory · Sapienza University of Rome**
 
 Fintech entrepreneur and AI systems expert based in Rome, Italy.
-Co-founder of [Redbit S.r.l.s.](https://www.tuttosemplice.com) — the company behind
+Founder of [Redbit S.r.l.s.](https://www.redbitsrls.com) — the company behind
 [tuttosemplice.com](https://www.tuttosemplice.com) (10 M+ annual readers) and
 [MiningReturns.com](https://miningreturns.com).
 
